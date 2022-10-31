@@ -1,0 +1,25 @@
+header {
+    height: 30%;
+    width: 20%;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+}
+
+#verzenden {
+    float: left;
+    margin-top: 5%;
+    margin-left: 110%;
+}
+
+.ingevuldNaam {
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 40%;
+}
+
+footer {
+    bottom: 20%;
+    left: 30%;
+    position: absolute;
+}
