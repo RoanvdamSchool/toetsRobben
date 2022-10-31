@@ -1,3 +1,4 @@
+/* de naam en verzendknop verplaatsen */
 header {
     height: 30%;
     width: 20%;
@@ -5,19 +6,20 @@ header {
     top: 20%;
     left: 30%;
 }
-
+/* de verzendknop op de juiste plek zetten */
 #verzenden {
     float: left;
     margin-top: 5%;
     margin-left: 110%;
 }
-
+/* het ingevulde text plaatsen dat met de verzendknop is verzonden */
 .ingevuldNaam {
     position: absolute;
     margin-top: 20%;
     margin-left: 40%;
 }
 
+/* de kleuren verplaatsen */
 footer {
     bottom: 20%;
     left: 30%;
