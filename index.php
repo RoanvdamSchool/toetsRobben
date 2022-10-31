@@ -17,7 +17,7 @@
             <!-- kleuren veranderen werkt nog niet -->
             <h2>kies uw kleur</h2>
             <label>
-                <input type="checkbox" class="kleur" name="kleur[]" value="1" onclick="style.backgroundColor='blue'">blauw</label>
+                <input type="checkbox" class="kleur" name="kleur[]" value="1">blauw</label>
             <label>
                 <input type="checkbox" class="kleur" name="kleur[]" value="2">geel</label>
             <label>
